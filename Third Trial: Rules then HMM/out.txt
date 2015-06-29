@@ -1,0 +1,36 @@
+
+دکتر قلی اصلاحی در تهران بیماری آنفولانزا گرفت. علی اشحاده در مشهد دچار بیماری سرطان شده است.استاد تقوی آدم خوبی است. شهر اصفهان زیبا است. بیماری ایدز خطرناک است. 
+دکتر	PERSON
+قلی	PERSON
+اصلاحی	PERSON
+در	OTHER
+تهران	OTHER
+بیماری	OTHER
+آنفولانزا	OTHER
+گرفت	OTHER
+.	OTHER
+علی	PERSON
+اشحاده	PERSON
+در	OTHER
+مشهد	OTHER
+دچار	OTHER
+بیماری	OTHER
+سرطان	OTHER
+شده_است	OTHER
+.	OTHER
+استاد	PERSON
+تقوی	PERSON
+آدم	OTHER
+خوبی	OTHER
+است	OTHER
+.	OTHER
+شهر	PERSON
+اصفهان	LOCATION
+زیبا	OTHER
+است	OTHER
+.	OTHER
+بیماری	PERSON
+ایدز	OTHER
+خطرناک	OTHER
+است	OTHER
+.	OTHER
